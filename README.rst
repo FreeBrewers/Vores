@@ -17,15 +17,15 @@ Recipe for 25 L, (5.6% vol.)
 Ingredients:
 ============
 
-1800 g Pilsner malt
-1200 g Münschener malt
-300 g Caramel malt
-300 g Lager malt
-18 g Tetnang bitter hops
-15 g Hallertaver aroma hops
-90 g Guaraná
-1200 g Sugar
-Safbrew T-58 Yeast
+* 1800 g Pilsner malt
+* 1200 g Münschener malt
+* 300 g Caramel malt
+* 300 g Lager malt
+* 18 g Tetnang bitter hops
+* 15 g Hallertaver aroma hops
+* 90 g Guaraná
+* 1200 g Sugar
+* Safbrew T-58 Yeast
 
 Method:
 =======
