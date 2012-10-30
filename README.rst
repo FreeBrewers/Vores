@@ -4,8 +4,7 @@ Vores Øl
 FREE BEER version 1.0 (codename: “Vores Øl”)
 
 Free beer is an open source beer based on classic ale brewing traditions, but
-with added guaraná for a natural energy boost when coding Python. For more
-informations about FREE BEER go to http://freebeer.org/blog/about.
+with added guaraná. For more informations about FREE BEER go to http://freebeer.org/blog/about.
 
 The recipe and branding elements is published under a Creative Commons
 (Attribution-ShareAlike 2.5) license.
